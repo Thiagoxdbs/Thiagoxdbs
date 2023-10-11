@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Bianchi
+### Olá! Eu sou o Thiago Bianchi 
 
 - 🔭 Hoje eu trabalho como Analista Computacional
 - 🌱 Estou estudando Engenharia da Computação
