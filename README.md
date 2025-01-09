@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Thiago Bianchi 
 
-- 🔭 Hoje eu trabalho como Analista Computacional
 - 🌱 Formado em Engenharia da Computação 
 
 ___________________________________________________________________________________________________
